@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    display: flex!important;
+    align-items: center!important;
+    color: crimson!important;
+}
+.navbar-collapse{
+    flex-grow: 0!important;
+    flex-basis: 0;
+    padding: 0px 20px!important;
+}
+.nav-link :active{ 
+    color: crimson;
+}
+.container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.head-text{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.broadcast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.limit{
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.channel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.showcase{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+.custom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+.h2{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 38px;
+}
+.level{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.level image{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.private{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 50px;
+    
+}
+.optimal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    margin-top: 50px;
+}
+.mixlr{
+    text-align: center;
+    margin-top: 90px;
+}
+.mixlr2{
+    text-align: center;
+    margin-top: 90px;
+    color: crimson;
+}
+.icon{
+    text-align: center;
+    margin-top: 20px;
+}
